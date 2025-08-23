@@ -41,9 +41,9 @@ Please note - if you choose to use a matte acrylic like I did, many companies on
 
 To have screws sit flush with the top and bottom of the case, we'll need to drill in countersinks. This should be done in **the bottom layer and the rim layer with the smaller holes**. I recommend leaving the paper on while doing this, going slow and carefully, and regularly checking the countersink depth against a sample screw. When done, all screws should sit flush, looking something like this.
 
-![[images/bottomcountersinkexample.jpg]]
+![bottom counter sink example](images/bottomcountersinkexample.jpg)
 
-![[images/bottomcountersinkexampleside.jpg]]
+![bottom counter sink example side](images/bottomcountersinkexampleside.jpg)
 
 I also recommend doing some post processing on the aluminum panel. I used a Dremel with 240 grit and 400 grit buffing wheels to deburr the edges and smooth out the switch cutouts, but a file would work as well. you could probably get away with not doing this, but expect the switch plate to tear up your switch housings.
 
@@ -54,23 +54,23 @@ all forces between the two directly on the solder joints, but it particularly un
 
 So for this case design, the option to reuse the holes in the switch plate that were originally intended to secure the case together to mount the PCB and the switch plate. These holes are of 5mm diameter, the same as most m2 washers. Therefore, I designed a custom 6.5mm outer diameter water that I could 3D print. It looks like this.
 
-![[images/m2washercustomtop.jpg]]
+![m2 custom washer top view](images/m2washercustomtop.jpg)
 
-![[images/m2washercustombottom.jpg]]
+![m2 custom washer bottom view](images/m2washercustombottom.jpg)
 
 These need to be installed on either side of the PCB, between both the m2x4mm screw on the bottom of the PCB and the m2x4mm spacer on the top of the PCB. See various views of this in the following images
 
-![[images/m2washercustominstalltop.jpg]]
+![m2 custom washer installed top view](images/m2washercustominstalltop.jpg)
 
-![[images/m2washercustominstallbottom.jpg]]
+![m2 custom washer installed bottom view](images/m2washercustominstallbottom.jpg)
 
-![[images/m2washercustominstallside.jpg]]
+![m2 custom washer installed side view](images/m2washercustominstallside.jpg)
 
 Lastly, fasten the PCB and switch plate together with more m2x4mm screws. This will robustly fasten the PCB and switch plate together and should look like this:
 
-![[images/switchplatepluspcbtop.jpg]]
+![switch plate with PCB top view](images/switchplatepluspcbtop.jpg)
 
-![[images/switchplatepluspcbside.jpg]]
+![switch plate with PCB side view](images/switchplatepluspcbside.jpg)
 
 ## Main Assembly
 
@@ -93,8 +93,8 @@ Place m2x8mm screws through the bottom panel, loosely threading the m2x12mm spac
 
 If you followed all of these steps, you should have a fully assembled, enclosed ErgoDash case. Add keycaps and cables and you've got a full setup. Here's how mine came out. If you built on yourself, please share it with me (@prilosac on X/Twitter)
 
-![[images/buildexample1.jpg]]
+![build example 1](images/buildexample1.jpg)
 
-![[images/Pasted image 20250817212327.jpg]]
+![closeup corner view](images/closeupcornerview.jpg)
 
-![[images/Pasted image 20250817212336.jpg]]
+![RGB lighting top view](images/rgbtopview.jpg)
