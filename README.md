@@ -14,7 +14,7 @@ This repository primarily covers the case assembly, with a small section about m
 - File/Sandpaper/Buffing pad/etc. (see [Prep](#prep))
 ## Parts
 
-![[images/alllayersexample.png]]
+![all layers example](images/alllayersexample.png)
 The case consists of 8 layers per half made up of 6 unique parts. (image above for reference). In addition to the necessary parts, there are some optional parts for those who wish to secure the PCB to the switch plate.
 
 For both halves, you will need:
