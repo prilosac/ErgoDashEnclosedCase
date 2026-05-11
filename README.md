@@ -50,7 +50,7 @@ I also recommend doing some post processing on the aluminum panel. I used a Drem
 ## PCB Mounting Aside
 
 The default sandwich style case (and seemingly many other open source keyboards) relies on the PCB to be fastened to the switch plate via the switches. This doesn't provide a lot of strength for the PCB mounting solution. It can work alright for directly soldered switches despite putting
-all forces between the two directly on the solder joints, but it particularly unreliable for hot swap installations. 
+all forces between the two directly on the solder joints, but is particularly unreliable for hot swap installations. 
 
 So for this case design, the option to reuse the holes in the switch plate that were originally intended to secure the case together to mount the PCB and the switch plate. These holes are of 5mm diameter, the same as most m2 washers. Therefore, I designed a custom 6.5mm outer diameter water that I could 3D print. It looks like this.
 
